@@ -57,20 +57,6 @@ Azure Data services       Backstage (IDP)             Spend visibility at scale
 
 ---
 
-## Education
-
-**Associate Degree in Analysis & Systems Development**
-Faculdades Integradas Campos Salles · 2023–2025 · São Paulo, Brazil
-
----
-
-## Languages
-
-- 🇧🇷 Portuguese — Native
-- 🇬🇧 English — Professional Working Proficiency
-
----
-
 <div align="center">
 
 **[linkedin.com/in/vinicius-de-camargo-mota](https://www.linkedin.com/in/vinicius-de-camargo-mota)**
