@@ -59,29 +59,6 @@ Azure Data services       Backstage (IDP)             Spend visibility at scale
 
 ---
 
-## Featured Projects
-
-### 🏗️ [databricks-platform-iac](./databricks-platform-iac)
-> Terraform modules for provisioning production-grade Databricks workspaces on Azure — including Unity Catalog setup, cluster policies, and automated CI/CD validation via GitHub Actions. Inspired by real-world patterns from managing a 10,000+ user environment.
-
-`Terraform` `Databricks` `Azure` `GitHub Actions` `Unity Catalog`
-
----
-
-### 📊 [finops-cost-dashboard](./finops-cost-dashboard)
-> Open-source cloud cost analysis tool built with Python and the Azure SDK. Replicates the FinOps dashboard concept that reached 20,000+ views at Bradesco — now available for any Azure-based organization to adapt.
-
-`Python` `Azure SDK` `FinOps` `Streamlit` `Cost Optimization`
-
----
-
-### 🔁 [delta-lake-pipeline-demo](./delta-lake-pipeline-demo)
-> End-to-end data pipeline demonstrating the medallion architecture (Bronze → Silver → Gold) using PySpark and Delta Lake. Includes data quality checks, schema enforcement, and incremental load patterns.
-
-`PySpark` `Delta Lake` `Python` `SQL` `Medallion Architecture`
-
----
-
 ## Education
 
 **Associate Degree in Analysis & Systems Development**
