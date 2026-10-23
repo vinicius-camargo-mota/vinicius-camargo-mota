@@ -1,11 +1,10 @@
 <div align="center">
 
-# Vinicius Mota
-### Data & Platform Engineer · São Paulo, Brazil
+<h3><code>vinicius@github ~ $ whoami</code></h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinicius--de--camargo--mota-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-de-camargo-mota)
-[![Email](https://img.shields.io/badge/Email-vinicius.camargo.eng%40outlook.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vinicius.camargo.eng@outlook.com)
-[![Location](https://img.shields.io/badge/Open%20to-Remote%20%7C%20Relocation-1D9E75?style=flat&logo=googlemaps&logoColor=white)](#)
+<p align="center">
+  <img src="./info-card.svg" alt="Neofetch-style info card" />
+</p>
 
 </div>
 
