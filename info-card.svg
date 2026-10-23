@@ -25,13 +25,13 @@
   </text>
 
   <!-- Identity -->
-  <text x="28" y="70" fill="#58a6ff" font-weight="bold" font-size="17">
+  <text x="28" y="70" fill="#58a6ff" font-weight="bold" font-size="13">
     vinicius@github
   </text>
   <text x="28" y="94" fill="#8b949e">----------------</text>
 
   <text x="28" y="124" fill="#39d353" font-weight="bold">Role</text>
-  <text x="165" y="124" fill="#c9d1d9" font-size="16">
+  <text x="165" y="124" fill="#c9d1d9">
     Data &amp; Platform Engineer
   </text>
 
@@ -44,7 +44,7 @@
   </text>
 
   <!-- Impact -->
-  <text x="28" y="222" fill="#58a6ff" font-weight="bold" font-size="15">
+  <text x="28" y="222" fill="#58a6ff" font-weight="bold" font-size="13">
     ~ Engineering Impact
   </text>
 
@@ -74,7 +74,7 @@
   </text>
 
   <!-- Expertise -->
-  <text x="28" y="375" fill="#58a6ff" font-weight="bold" font-size="15">
+  <text x="28" y="375" fill="#58a6ff" font-weight="bold" font-size="13">
     ~ Core Expertise
   </text>
 
@@ -100,7 +100,7 @@
   </text>
 
   <!-- Credentials -->
-  <text x="28" y="511" fill="#58a6ff" font-weight="bold" font-size="15">
+  <text x="28" y="511" fill="#58a6ff" font-weight="bold" font-size="13">
     ~ Certifications
   </text>
 
