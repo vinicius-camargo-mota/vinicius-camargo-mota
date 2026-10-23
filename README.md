@@ -7,11 +7,3 @@
 </p>
 
 </div>
-
----
-
-<div align="center">
-
-**[linkedin.com/in/vinicius-de-camargo-mota](https://www.linkedin.com/in/vinicius-de-camargo-mota)**
-
-</div>
