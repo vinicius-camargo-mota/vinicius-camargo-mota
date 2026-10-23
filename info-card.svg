@@ -1,6 +1,6 @@
 
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="100%" viewBox="0 0 900 600"
+     width="100%" viewBox="0 0 900 640"
      preserveAspectRatio="xMinYMin meet"
      font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
      font-size="14">
@@ -117,7 +117,7 @@
     vinicius@github:~$ <tspan fill="#c9d1d9">fastfetch</tspan>
   </text>
 
-  <rect x="222" y="585" width="7" height="12" fill="#c9d1d9">
+  <rect x="222" y="620" width="7" height="12" fill="#c9d1d9">
     <animate attributeName="opacity"
              values="1;1;0;0"
              keyTimes="0;0.5;0.51;1"
