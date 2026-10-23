@@ -75,30 +75,29 @@
 
   <!-- Expertise -->
   <text x="28" y="375" fill="#58a6ff" font-weight="bold" font-size="13">
-    ~ Core Expertise
+    ~ Highlights
   </text>
 
-  <text x="28" y="408" fill="#39d353" font-weight="bold">
-    Data
-  </text>
-  <text x="165" y="408" fill="#c9d1d9">
-    Databricks, PySpark, Delta Lake, SQL
+  <text x="28" y="540" fill="#39d353">•</text>
+  <text x="48" y="540" fill="#c9d1d9">
+    Maintaining and evolving self-service data provisioning pipeline
   </text>
 
-  <text x="28" y="438" fill="#39d353" font-weight="bold">
-    Platform
-  </text>
-  <text x="165" y="438" fill="#c9d1d9">
-    Terraform, Backstage, REST APIs, Azure
+  <text x="28" y="540" fill="#39d353">•</text>
+  <text x="48" y="540" fill="#c9d1d9">
+    Manage Unity Catalog governance at enterprise scale, supporting role-based access control (RBAC), data lineage, and compliance
   </text>
 
-  <text x="28" y="468" fill="#39d353" font-weight="bold">
-    Delivery
+  <text x="28" y="540" fill="#39d353">•</text>
+  <text x="48" y="540" fill="#c9d1d9">
+   Contribute to incident troubleshooting and controlled production changes
   </text>
-  <text x="165" y="468" fill="#c9d1d9">
-    GitHub, CI/CD, DevSecOps, FinOps
+     
+  <text x="28" y="540" fill="#39d353">•</text>
+  <text x="48" y="540" fill="#c9d1d9">
+   Collaborate with data engineering, platform, and stakeholder teams to support platform adoption
   </text>
-
+     
   <!-- Credentials -->
   <text x="28" y="511" fill="#58a6ff" font-weight="bold" font-size="13">
     ~ Certifications
