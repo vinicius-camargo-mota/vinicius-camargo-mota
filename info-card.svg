@@ -73,38 +73,41 @@
     From 1 week to under 1 hour
   </text>
 
-  <!-- Expertise -->
+  
+  <!-- Highlights -->
   <text x="28" y="375" fill="#58a6ff" font-weight="bold" font-size="13">
     ~ Highlights
   </text>
 
-  <text x="28" y="540" fill="#39d353">•</text>
-  <text x="48" y="540" fill="#c9d1d9">
-    Maintaining and evolving self-service data provisioning pipeline
-  </text>
+  <g fill="#39d353">
+    <text x="28" y="410">•</text>
+    <text x="28" y="445">•</text>
+    <text x="28" y="480">•</text>
+    <text x="28" y="515">•</text>
+  </g>
 
-  <text x="28" y="540" fill="#39d353">•</text>
-  <text x="48" y="540" fill="#c9d1d9">
-    Manage Unity Catalog governance at enterprise scale, supporting role-based access control (RBAC), data lineage, and compliance
-  </text>
+  <g fill="#c9d1d9" font-size="13">
+    <text x="48" y="410">
+      Maintaining and evolving self-service data provisioning pipelines
+    </text>
+    <text x="48" y="445">
+      Managing Unity Catalog governance, RBAC, data lineage and compliance
+    </text>
+    <text x="48" y="480">
+      Troubleshooting incidents and supporting controlled production changes
+    </text>
+    <text x="48" y="515">
+      Collaborating with engineering teams to drive platform adoption
+    </text>
+  </g>
 
-  <text x="28" y="540" fill="#39d353">•</text>
-  <text x="48" y="540" fill="#c9d1d9">
-   Contribute to incident troubleshooting and controlled production changes
-  </text>
-     
-  <text x="28" y="540" fill="#39d353">•</text>
-  <text x="48" y="540" fill="#c9d1d9">
-   Collaborate with data engineering, platform, and stakeholder teams to support platform adoption
-  </text>
-     
   <!-- Credentials -->
-  <text x="28" y="511" fill="#58a6ff" font-weight="bold" font-size="13">
+  <text x="28" y="555" fill="#58a6ff" font-weight="bold" font-size="13">
     ~ Certifications
   </text>
 
-  <text x="28" y="540" fill="#39d353">•</text>
-  <text x="48" y="540" fill="#c9d1d9">
+  <text x="28" y="578" fill="#39d353">•</text>
+  <text x="48" y="578" fill="#c9d1d9" font-size="13">
     Databricks Certified Data Engineer Associate
   </text>
 
