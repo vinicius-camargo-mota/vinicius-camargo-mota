@@ -10,52 +10,6 @@
 
 ---
 
-## About Me
-
-I'm a Data & Platform Engineer at **Bradesco** — one of Latin America's largest banks — Currently managing Databricks platform operations for **10,000+ users** — I accelerated resource provisioning by **168x**, reducing lead times from 1 week to under 1 hour through a Terraform + Backstage Template framework, and maintain the self-service pipelines that the entire analyst community uses to provision data products, Delta Live Tables pipelines, and Unity Catalog assets at scale.
-
----
-
-## What I Do
-
-```
-Data Engineering          Platform Engineering        FinOps
-─────────────────         ────────────────────        ──────
-PySpark pipelines         Terraform / IaC             Cloud cost analysis
-Delta Lake (Bronze/       GitHub Actions CI/CD        Power BI dashboards
-  Silver/Gold)            Databricks admin            Azure cost optimization
-SQL & data modeling       Unity Catalog (RBAC)        Governance frameworks
-Azure Data services       Backstage (IDP)             Spend visibility at scale
-```
-
----
-
-## Tech Stack
-
-**Cloud & Platform**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![Backstage](https://img.shields.io/badge/Backstage-9BF0E1?style=flat&logo=backstage&logoColor=black)
-
-**Infrastructure as Code**
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-
-**Data Engineering**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat&logo=delta&logoColor=white)
-
-**Analytics & FinOps**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-
----
-
 <div align="center">
 
 **[linkedin.com/in/vinicius-de-camargo-mota](https://www.linkedin.com/in/vinicius-de-camargo-mota)**
